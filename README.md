@@ -11,6 +11,6 @@
 Java, массивы, циклы, условные операторы, `java.util.Arrays`.
 
 ## Запуск
-Требуется JDK. Запустите класс `FinanceModule` (исходный файл `src/Main.java`) в IntelliJ IDEA.
+Требуется JDK. Запустите класс `Main` из `src/Main.java` в IntelliJ IDEA.
 
 Учебные задачи с тестовыми значениями, не финансовый продукт.
