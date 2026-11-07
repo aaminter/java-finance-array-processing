@@ -1,6 +1,6 @@
 # Java Finance Array Processing
 
-![Java CI](https://github.com/aaminter/DZ011/actions/workflows/ci.yml/badge.svg)
+![Java CI](https://github.com/aaminter/java-finance-array-processing/actions/workflows/ci.yml/badge.svg)
 
 Набор консольных упражнений по обработке массивов на финансовых примерах.
 
